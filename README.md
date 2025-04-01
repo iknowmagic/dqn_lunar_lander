@@ -50,7 +50,7 @@ HYPERPARAMS = {
     "LR": 1e-4,
     "REPLAY_MEMORY_SIZE": 10000,
     "HIDDEN_LAYER_SIZE": 128,
-    "NUM_EPISODES": 500,
+    "NUM_EPISODES": 1500,
     "TARGET_UPDATE_INTERVAL": 10,
     "MAX_STEPS_PER_EPISODE": 500,
     "GIF_FPS": 30
@@ -67,4 +67,4 @@ This project offered practical experience in building a reinforcement learning p
 
 ## Acknowledgments
 
-Built as part of the Build Fellowship project under the guidance of Igor Sadalski.
+Built as part of [The Build Fellowship](https://www.buildfellowship.com) project under the guidance of [Igor Sadalski](https://github.com/igor-sadalski).
