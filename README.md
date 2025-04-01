@@ -45,7 +45,7 @@ HYPERPARAMS = {
     "GAMMA": 0.99,
     "EPS_START": 1.0,
     "EPS_END": 0.05,
-    "EPS_DECAY": 1000,
+    "EPS_DECAY": 1800,
     "TAU": 0.005,
     "LR": 1e-4,
     "REPLAY_MEMORY_SIZE": 10000,
